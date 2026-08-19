@@ -141,7 +141,7 @@ export default function SpotifyPlayer({ autoPlay = false }) {
       {/* Audio Element */}
       <audio
         ref={audioRef}
-        src="/Heaven.mp3"
+        src="/THANK%20YOU%204%20LOVIN'%20ME_spotdown.org.mp3"
         preload="metadata"
         onTimeUpdate={handleTimeUpdate}
         onLoadedMetadata={handleLoadedMetadata}
@@ -180,7 +180,7 @@ export default function SpotifyPlayer({ autoPlay = false }) {
           }}>
             <img
               src="/caca 3.jpeg"
-              alt="Heaven"
+              alt="Thank You 4 Lovin' Me"
               style={{ width: '100%', height: '100%', objectFit: 'cover' }}
               onError={(e) => { e.target.src = '/caca 3.jpeg'; }}
             />
@@ -200,7 +200,7 @@ export default function SpotifyPlayer({ autoPlay = false }) {
               fontSize: '0.78rem', fontWeight: 700, color: '#ffffff',
               lineHeight: 1.1, whiteSpace: 'nowrap'
             }}>
-              Heaven
+              Thank You 4 Lovin' Me
             </div>
             <div style={{
               fontSize: '0.66rem', color: '#1DB954', fontWeight: 600,
@@ -274,7 +274,7 @@ export default function SpotifyPlayer({ autoPlay = false }) {
           }}>
             <img
               src="/caca 3.jpeg"
-              alt="Heaven"
+              alt="Thank You 4 Lovin' Me"
               style={{ width: '100%', height: '100%', objectFit: 'cover' }}
               onError={(e) => { e.target.src = '/caca 3.jpeg'; }}
             />
@@ -300,13 +300,13 @@ export default function SpotifyPlayer({ autoPlay = false }) {
                   whiteSpace: 'nowrap', overflow: 'hidden', textOverflow: 'ellipsis',
                   letterSpacing: '-0.2px'
                 }}>
-                  Heaven
+                  Thank You 4 Lovin' Me
                 </div>
                 <div style={{
                   fontSize: '0.74rem', color: '#b3b3b3', fontWeight: 500,
                   whiteSpace: 'nowrap', overflow: 'hidden', textOverflow: 'ellipsis', marginTop: 1
                 }}>
-                  Special for Caca 💖
+                  Paul Partohap
                 </div>
               </div>
 
