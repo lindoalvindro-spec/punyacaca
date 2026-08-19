@@ -113,9 +113,9 @@ export default function BirthdayWishCard({ onNext, onRestart }) {
                 boxShadow: '0 12px 32px rgba(59,130,246,0.25)',
                 position: 'relative', zIndex: 1
               }}>
-                <img src="/caca 1.jpeg" alt="Caca" style={{
+                <img src="/caca 5.jpeg" alt="Caca" style={{
                   width: '100%', height: '100%', objectFit: 'cover', objectPosition: 'center center'
-                }} onError={(e) => { e.target.src = '/caca 1.jpeg'; }} />
+                }} onError={(e) => { e.target.src = '/caca 5.jpeg'; }} />
               </div>
             </div>
 
