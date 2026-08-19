@@ -155,7 +155,7 @@ export default function BirthdayWishCard({ onNext, onRestart }) {
                 With Love & Best Wishes 💖✨
               </p>
               <p style={{ fontFamily: 'var(--font-display)', fontSize: '1.7rem', color: '#1e40af' }}>
-                Happy 15th Birthday, Caca 🌸✨
+                Happy 15th Birthday, Sayang 🌸✨
               </p>
             </div>
 

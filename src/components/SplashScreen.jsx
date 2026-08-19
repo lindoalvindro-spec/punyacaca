@@ -230,7 +230,7 @@ export default function SplashScreen({ onStart }) {
               color: '#dcfce7', margin: 0, lineHeight: 1.3,
               textShadow: '0 2px 10px rgba(0,0,0,0.5)',
             }}>
-              "Selamat Ulang Tahun yang ke-15, Caca" 🌸✨
+              "Selamat Ulang Tahun yang ke-15, Sayang" 🌸✨
             </p>
           </div>
 
